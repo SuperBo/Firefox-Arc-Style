@@ -8,6 +8,8 @@
 
 #titlebar {margin-top: -30px !important;}
 
+.titlebar-buttonbox-container{ display: none !important }
+
 
 /* :root {
   --sidebar-hover-width: 170px;
