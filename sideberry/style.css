@@ -3,8 +3,10 @@
 }
 
 .Tab {
+    /*margin-left: 5px !important;
+    width: 92vw !important;*/
 	width: 92%;
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
 .Tab .title {
@@ -246,7 +248,7 @@ z-index: 9002 !important;
 .TabsPanel .new-tab-btns {
     #margin-bottom: 35px !important;
     padding-top: 5px !important;
-    margin-top: 5px !important;
+		margin-top: 5px !important;
 }
 
 .BookmarksPanel , .HistoryPanel {
